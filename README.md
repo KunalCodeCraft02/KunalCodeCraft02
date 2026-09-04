@@ -124,7 +124,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 ## 📈 GitHub Activity
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KunalCodeCraft02&bg_color=0D1117&color=00E5FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Kunal's%20Contribution%20Graph" width="95%"/>
+<img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=KunalCodeCraft02&bg_color=0D1117&color=00E5FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Kunal's%20Contribution%20Graph" width="95%"/>
 </div>
 
 <br>
