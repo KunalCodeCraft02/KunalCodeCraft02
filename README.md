@@ -112,7 +112,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=KunalCodeCraft02&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=3B82F6&text_color=FFFFFF&ring_color=8B5CF6" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KunalCodeCraft02&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" height="180"/>
+<img src="https://streak-stats.demolab.com/?user=KunalCodeCraft02&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" height="180"/>
 </div>
 
 <div align="center">
