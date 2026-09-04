@@ -48,7 +48,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 
 ## 🛠️ Tech Stack
 
-**🌐 Frontend**
+### 🌐 Frontend
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=E34F26"/>
@@ -58,7 +58,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 <img src="https://img.shields.io/badge/Next.js-0D1117?style=for-the-badge&logo=next.js&logoColor=FFFFFF"/>
 </p>
 
-**⚙️ Backend**
+### ⚙️ Backend
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933"/>
@@ -68,7 +68,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
 </p>
 
-**🗄️ Databases**
+### 🗄️ Databases
 
 <p>
 <img src="https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248"/>
@@ -76,7 +76,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 <img src="https://img.shields.io/badge/Oracle-0D1117?style=for-the-badge&logo=oracle&logoColor=F80000"/>
 </p>
 
-**🤖 AI & Data**
+### 🤖 AI & Data
 
 <p>
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB"/>
@@ -85,7 +85,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 <img src="https://img.shields.io/badge/AI%20%26%20Automation-0D1117?style=for-the-badge&logo=openai&logoColor=00E5FF"/>
 </p>
 
-**☁️ DevOps & Version Control**
+### ☁️ DevOps & Version Control
 
 <p>
 <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
@@ -95,7 +95,7 @@ I enjoy working across the stack — from designing interfaces and building APIs
 <img src="https://img.shields.io/badge/Naver%20Cloud-0D1117?style=for-the-badge&logoColor=03C75A"/>
 </p>
 
-**🔧 Tools**
+### 🔧 Tools
 
 <p>
 <img src="https://img.shields.io/badge/VS%20Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
@@ -111,12 +111,17 @@ I enjoy working across the stack — from designing interfaces and building APIs
 ## 📊 GitHub Statistics
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api?username=KunalCodeCraft02&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=3B82F6&text_color=FFFFFF&ring_color=8B5CF6" height="180"/>
+
 <img src="https://streak-stats.demolab.com/?user=KunalCodeCraft02&hide_border=true&background=0D1117&ring=00E5FF&fire=8B5CF6&currStreakLabel=00E5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=7D8590" height="180"/>
+
 </div>
 
 <div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KunalCodeCraft02&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF&langs_count=8" height="180"/>
+
 </div>
 
 <br>
@@ -124,7 +129,9 @@ I enjoy working across the stack — from designing interfaces and building APIs
 ## 📈 GitHub Activity
 
 <div align="center">
+
 <img src="https://fabianocouto-activity-graph.vercel.app/graph/?username=KunalCodeCraft02&bg_color=0D1117&color=00E5FF&line=3B82F6&point=FFFFFF&area=true&hide_border=true&custom_title=Kunal's%20Contribution%20Graph" width="95%"/>
+
 </div>
 
 <br>
@@ -132,7 +139,27 @@ I enjoy working across the stack — from designing interfaces and building APIs
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/KunalCodeCraft02/KunalCodeCraft02/output/github-contribution-grid-snake.svg" width="95%"/>
+
+<picture>
+
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/KunalCodeCraft02/KunalCodeCraft02/output/github-contribution-grid-snake-dark.svg"
+  />
+
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/KunalCodeCraft02/KunalCodeCraft02/output/github-contribution-grid-snake.svg"
+  />
+
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/KunalCodeCraft02/KunalCodeCraft02/output/github-contribution-grid-snake.svg"
+    width="95%"
+  />
+
+</picture>
+
 </div>
 
 <br>
@@ -140,7 +167,9 @@ I enjoy working across the stack — from designing interfaces and building APIs
 ## 🏆 GitHub Trophies
 
 <div align="center">
+
 <img src="https://github-profile-trophy.vercel.app/?username=KunalCodeCraft02&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" width="95%"/>
+
 </div>
 
 <br>
@@ -149,40 +178,51 @@ I enjoy working across the stack — from designing interfaces and building APIs
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🌾 ExportGPT
+
 AI-powered WhatsApp assistant for export guidance, market intelligence and buyer-exporter connections.
 
 `AI` `WhatsApp` `Automation` `Market Intelligence`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 🤖 BeMyBot
+
 AI-powered customer support and lead generation platform for automating conversations and business workflows.
 
 `AI` `Customer Support` `Lead Generation` `Automation`
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💡 StartupForge AI
+
 AI-powered startup discovery and market intelligence platform built on real-world signals.
 
 `AI` `Market Intelligence` `React` `Node.js` `MongoDB`
 
 </td>
+
 <td width="50%" valign="top">
 
 ### 📧 Outreach AI
+
 AI-powered outreach platform for prospect discovery, personalized emails and automated follow-ups.
 
 `AI` `Automation` `Sales` `Node.js`
 
 </td>
+
 </tr>
 </table>
 
@@ -192,9 +232,8 @@ AI-powered outreach platform for prospect discovery, personalized emails and aut
 
 <div align="center">
 
-| | |
-|---|---|
 | 🤖 AI Applications | 🌐 Web Platforms |
+|---|---|
 | ⚡ Automation | 📊 Data Products |
 | 🚀 Developer Tools | ☁️ Cloud Solutions |
 | 🔧 APIs & Backends | 🌱 Open Source |
@@ -222,9 +261,11 @@ AI-powered outreach platform for prospect discovery, personalized emails and aut
 <a href="https://www.linkedin.com/in/kunal-bodkhe-269283289/">
 <img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/>
 </a>
+
 <a href="https://github.com/KunalCodeCraft02">
 <img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
+
 <a href="mailto:kunalbodkhe@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
 </a>
@@ -236,3 +277,5 @@ AI-powered outreach platform for prospect discovery, personalized emails and aut
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:123C69,100:0D1117&height=150&section=footer"/>
 
 </div>
+
+<br><br>
