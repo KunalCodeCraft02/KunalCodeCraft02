@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123C69,100:00E5FF&height=240&section=header&text=Welcome%20to%20KunalCodeCraft02's%20GitHub%20👋&fontSize=32&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:123C69,100:00E5FF&height=240&section=header&text=Welcome%20to%20Kunal's%20GitHub%20👋&fontSize=32&fontColor=FFFFFF&fontAlignY=45&animation=fadeIn"/>
 
 # 👋 Hey, I'm Kunal Bodkhe
 
